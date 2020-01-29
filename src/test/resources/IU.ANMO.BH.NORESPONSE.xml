@@ -1,0 +1,3631 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+ <FDSNStationXML xmlns="http://www.fdsn.org/xml/station/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:iris="http://www.fdsn.org/xml/station/1/iris" xsi:schemaLocation="http://www.fdsn.org/xml/station/1 http://www.fdsn.org/xml/station/fdsn-station-1.1.xsd" schemaVersion="1.1">
+  <Source>IRIS-DMC</Source>
+  <Sender>IRIS-DMC</Sender>
+  <Module>IRIS WEB SERVICE: fdsnwsbeta-station | version: 1.1.40</Module>
+  <ModuleURI>http://service.iris.edu/fdsnwsbeta/station/1/query?net=IU&amp;sta=ANMO&amp;loc=*&amp;cha=BH?&amp;level=cha</ModuleURI>
+  <Created>2020-01-07T15:46:24</Created>
+  <Network code="IU" startDate="1988-01-01T00:00:00" restrictedStatus="open">
+   <Description>Global Seismograph Network - IRIS/USGS (GSN)</Description>
+   <TotalNumberStations>270</TotalNumberStations>
+   <SelectedNumberStations>6</SelectedNumberStations>
+   <Station code="ANMO" startDate="2008-06-30T20:00:00" restrictedStatus="open" iris:alternateNetworkCodes="_ANSS-BB,_CARIBE-EWS,_CEUSN,.CEUSN-CONTRIB,.EARTHSCOPE,_FDSN,_FDSN-ALL,.GREG,_GSN,_GSN-BROADBAND,_REALTIME,.TEST,.UNRESTRICTED,_US-ALL,_US-REF,_US-TA">
+    <Latitude>34.945911</Latitude>
+    <Longitude>-106.457199</Longitude>
+    <Elevation>1820.0</Elevation>
+    <Site>
+     <Name>Albuquerque, New Mexico, USA</Name>
+    </Site>
+    <CreationDate>1989-08-29T00:00:00</CreationDate>
+    <TotalNumberChannels>239</TotalNumberChannels>
+    <SelectedNumberChannels>45</SelectedNumberChannels>
+    <Channel code="BH1" locationCode="10" startDate="2019-06-07T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>247</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-5 360 second corner</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>2.44779E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="10" startDate="2019-05-03T17:00:00" endDate="2019-06-07T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>233</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-5 360 second corner</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>2.44779E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="10" startDate="2019-04-30T20:00:00" endDate="2019-05-03T17:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>106</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-5 360 second corner</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>2.44779E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="10" startDate="2018-09-27T17:00:00" endDate="2019-04-30T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>174</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Trillium 360</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.82536E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="00" startDate="2018-07-09T20:45:00" restrictedStatus="open">
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1632.7</Elevation>
+     <Depth>188</Depth>
+     <Azimuth>156</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-6A VBB Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.98474E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="10" startDate="2016-11-29T22:00:00" endDate="2018-09-27T17:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.5</Elevation>
+     <Depth>90.2</Depth>
+     <Azimuth>340</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>T120 post hole, quiet</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.97468E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="00" startDate="2014-12-17T18:40:00" endDate="2018-07-09T20:45:00" restrictedStatus="open">
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>17</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.39235E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="10" startDate="2014-08-12T00:00:00" endDate="2016-11-29T22:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.5</Elevation>
+     <Depth>90.2</Depth>
+     <Azimuth>71</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>T120 post hole, quiet</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.97468E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="10" startDate="2012-03-13T08:10:00" endDate="2014-08-12T00:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1759</Elevation>
+     <Depth>57</Depth>
+     <Azimuth>243</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.35276E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="00" startDate="2012-03-12T20:28:00" endDate="2014-12-17T18:40:00" restrictedStatus="open">
+     <Latitude>34.94598</Latitude>
+     <Longitude>-106.45713</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>328</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.45661E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="10" startDate="2011-10-14T20:00:00" endDate="2012-03-13T08:10:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1759</Elevation>
+     <Depth>57</Depth>
+     <Azimuth>243</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.35276E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="10" startDate="2011-02-19T06:53:00" endDate="2011-10-14T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1767.2</Elevation>
+     <Depth>48.8</Depth>
+     <Azimuth>64</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.28056E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="00" startDate="2011-02-18T19:11:00" endDate="2012-03-12T20:28:00" restrictedStatus="open">
+     <Latitude>34.94598</Latitude>
+     <Longitude>-106.45713</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>328</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.45661E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="00" startDate="2008-06-30T20:00:00" endDate="2011-02-18T19:11:00" restrictedStatus="open">
+     <Latitude>34.94598</Latitude>
+     <Longitude>-106.45713</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>328</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.45661E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH1" locationCode="10" startDate="2008-06-30T20:00:00" endDate="2011-02-19T06:53:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1767.2</Elevation>
+     <Depth>48.8</Depth>
+     <Azimuth>64</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.28056E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="10" startDate="2019-06-07T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>337</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-5 360 second corner</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>2.44779E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="10" startDate="2019-05-03T17:00:00" endDate="2019-06-07T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>323</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-5 360 second corner</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>2.44779E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="10" startDate="2019-04-30T20:00:00" endDate="2019-05-03T17:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>196</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-5 360 second corner</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>2.44779E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="10" startDate="2018-09-27T17:00:00" endDate="2019-04-30T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>264</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Trillium 360</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.82536E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="00" startDate="2018-07-09T20:45:00" restrictedStatus="open">
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1632.7</Elevation>
+     <Depth>188</Depth>
+     <Azimuth>246</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-6A VBB Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.98474E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="10" startDate="2016-11-29T22:00:00" endDate="2018-09-27T17:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.5</Elevation>
+     <Depth>90.2</Depth>
+     <Azimuth>70</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>T120 post hole, quiet</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.97468E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="00" startDate="2014-12-17T18:40:00" endDate="2018-07-09T20:45:00" restrictedStatus="open">
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>107</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.2078E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="10" startDate="2014-08-12T00:00:00" endDate="2016-11-29T22:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.5</Elevation>
+     <Depth>90.2</Depth>
+     <Azimuth>161</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>T120 post hole, quiet</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.97468E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="10" startDate="2012-03-13T08:10:00" endDate="2014-08-12T00:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1759</Elevation>
+     <Depth>57</Depth>
+     <Azimuth>333</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.33061E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="00" startDate="2012-03-12T20:28:00" endDate="2014-12-17T18:40:00" restrictedStatus="open">
+     <Latitude>34.94598</Latitude>
+     <Longitude>-106.45713</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>58</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.34437E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="10" startDate="2011-10-14T20:00:00" endDate="2012-03-13T08:10:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1759</Elevation>
+     <Depth>57</Depth>
+     <Azimuth>333</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.33061E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="10" startDate="2011-02-19T06:53:00" endDate="2011-10-14T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1767.2</Elevation>
+     <Depth>48.8</Depth>
+     <Azimuth>154</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.2655E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="00" startDate="2011-02-18T19:11:00" endDate="2012-03-12T20:28:00" restrictedStatus="open">
+     <Latitude>34.94598</Latitude>
+     <Longitude>-106.45713</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>58</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.34437E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="00" startDate="2008-06-30T20:00:00" endDate="2011-02-18T19:11:00" restrictedStatus="open">
+     <Latitude>34.94598</Latitude>
+     <Longitude>-106.45713</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>58</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.34437E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BH2" locationCode="10" startDate="2008-06-30T20:00:00" endDate="2011-02-19T06:53:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1767.2</Elevation>
+     <Depth>48.8</Depth>
+     <Azimuth>154</Azimuth>
+     <Dip>0</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.2655E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="10" startDate="2019-06-07T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-5 360 second corner</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>2.44779E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="10" startDate="2019-05-03T17:00:00" endDate="2019-06-07T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-5 360 second corner</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>2.44779E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="10" startDate="2019-04-30T20:00:00" endDate="2019-05-03T17:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-5 360 second corner</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>2.44779E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="10" startDate="2018-09-27T17:00:00" endDate="2019-04-30T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.7</Elevation>
+     <Depth>90</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Trillium 360</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.82536E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="00" startDate="2018-07-09T20:45:00" restrictedStatus="open">
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1632.7</Elevation>
+     <Depth>188</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Streckeisen STS-6A VBB Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.98474E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="10" startDate="2016-11-29T22:00:00" endDate="2018-09-27T17:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.5</Elevation>
+     <Depth>90.2</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>T120 post hole, quiet</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.97468E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="00" startDate="2014-12-17T18:40:00" endDate="2018-07-09T20:45:00" restrictedStatus="open">
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.40409E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="10" startDate="2014-08-12T00:00:00" endDate="2016-11-29T22:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457199</Longitude>
+     <Elevation>1730.5</Elevation>
+     <Depth>90.2</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>T120 post hole, quiet</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>1.97468E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="10" startDate="2012-03-13T08:10:00" endDate="2014-08-12T00:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1759</Elevation>
+     <Depth>57</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.31283E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="00" startDate="2012-03-12T20:28:00" endDate="2014-12-17T18:40:00" restrictedStatus="open">
+     <Latitude>34.94598</Latitude>
+     <Longitude>-106.45713</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.27508E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="10" startDate="2011-10-14T20:00:00" endDate="2012-03-13T08:10:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1759</Elevation>
+     <Depth>57</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.31283E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="10" startDate="2011-02-19T06:53:00" endDate="2011-10-14T20:00:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1767.2</Elevation>
+     <Depth>48.8</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.30672E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="00" startDate="2011-02-18T19:11:00" endDate="2012-03-12T20:28:00" restrictedStatus="open">
+     <Latitude>34.94598</Latitude>
+     <Longitude>-106.45713</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.27508E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="00" startDate="2008-06-30T20:00:00" endDate="2011-02-18T19:11:00" restrictedStatus="open">
+     <Latitude>34.94598</Latitude>
+     <Longitude>-106.45713</Longitude>
+     <Elevation>1671</Elevation>
+     <Depth>145</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>2E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Geotech KS-54000 Borehole Seismometer</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.27508E9</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+    <Channel code="BHZ" locationCode="10" startDate="2008-06-30T20:00:00" endDate="2011-02-19T06:53:00" restrictedStatus="open">
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has high frequency cultural background noise.</Value>
+      <BeginEffectiveTime>1995-07-14T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>1999-06-17T00:08:00</BeginEffectiveTime>
+      <EndEffectiveTime>4000-01-01T00:00:00</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has occasional spiking.</Value>
+      <BeginEffectiveTime>1999-06-23T23:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>TEST DATA</Value>
+      <BeginEffectiveTime>2000-12-28T00:00:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel exibits high levels of low frequency noise.</Value>
+      <BeginEffectiveTime>2003-10-07T10:31:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Invalid instrument response.</Value>
+      <BeginEffectiveTime>2003-11-09T05:22:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Seismometer mass is against stops.</Value>
+      <BeginEffectiveTime>2004-08-03T00:36:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel has elevated low frequency noise levels.</Value>
+      <BeginEffectiveTime>2005-10-11T13:15:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Comment>
+      <Value>Channel is down.</Value>
+      <BeginEffectiveTime>2007-05-19T04:01:00</BeginEffectiveTime>
+      <EndEffectiveTime>2599-12-31T23:59:59</EndEffectiveTime>
+     </Comment>
+     <Latitude>34.945911</Latitude>
+     <Longitude>-106.457123</Longitude>
+     <Elevation>1767.2</Elevation>
+     <Depth>48.8</Depth>
+     <Azimuth>0</Azimuth>
+     <Dip>-90</Dip>
+     <Type>CONTINUOUS</Type>
+     <Type>GEOPHYSICAL</Type>
+     <SampleRate>4E01</SampleRate>
+     <ClockDrift>0E00</ClockDrift>
+     <Sensor>
+      <Description>Guralp CMG3-T Seismometer (borehole)</Description>
+     </Sensor>
+     <Response>
+     <InstrumentSensitivity>
+       <Value>3.30672E10</Value>
+       <Frequency>0.02</Frequency>
+       <InputUnits>
+         <Name>M/S</Name>
+         <Description>Velocity in Meters Per Second</Description>
+       </InputUnits>
+       <OutputUnits>
+         <Name>COUNTS</Name>
+         <Description>Digital Counts</Description>
+       </OutputUnits>
+     </InstrumentSensitivity>
+     </Response>
+    </Channel>
+   </Station>
+
+  </Network>
+ </FDSNStationXML>
