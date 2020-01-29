@@ -80,6 +80,44 @@ public class SeedSacpzIterator implements Iterator<SacpzResponse>, AutoCloseable
 
 	private SacpzResponse nextSacpzResponse() throws SeedException {
 		SacpzResponse.SeedBuilder responseBuilder = null;
+		while (iterator.hasNext()) {
+			Blockette b = iterator.peek();
+			int bType = b.getType();
+			if (bType == 52) {
+				if (responseBuilder != null) {
+					return responseBuilder.build();
+				}
+			}
+
+			b = iterator.next();
+			bType = b.getType();
+			if (bType >= 30 && bType < 50) {
+				abbreviationRecord.add((AbbreviationBlockette) b);
+			} else {
+				if (50 == bType) {
+					b050 = (B050) b;
+				} else if (52 == bType) {
+					B052 b052 = (B052) b;
+					responseBuilder = SacpzResponse.SeedBuilder.newInstance().b050(b050).b052(b052)
+							.b033((B033) abbreviationRecord.get(52, b052.getInstrumentIdentifier()));
+				} else if (b.getType() == 53) {
+					B053 b053 = (B053) b;
+					responseBuilder.b053(b053, (B034) abbreviationRecord.get(34, b053.getSignalInputUnit()),
+							(B034) abbreviationRecord.get(34, b053.getSignalOutputUnit()));
+				} else if (b.getType() == 58) {
+					B058 b058 = (B058) b;
+					responseBuilder.b058(b058, (B034) abbreviationRecord.get(34, b058.getSignalOutputUnit()));
+				}
+			}
+		}
+		if (responseBuilder != null) {
+			return responseBuilder.build();
+		}
+		return null;
+	}
+
+	private SacpzResponse nextSacpzResponse1() throws SeedException {
+		SacpzResponse.SeedBuilder responseBuilder = null;
 		SacpzResponse.SeedBuilder response = null;
 		if (lookAheadRespone != null) {
 			response = lookAheadRespone;
@@ -111,7 +149,7 @@ public class SeedSacpzIterator implements Iterator<SacpzResponse>, AutoCloseable
 							(B034) abbreviationRecord.get(34, b053.getSignalOutputUnit()));
 				} else if (b.getType() == 58) {
 					B058 b058 = (B058) b;
-					responseBuilder.b058(b058, (B034)abbreviationRecord.get(34,b058.getSignalOutputUnit()));
+					responseBuilder.b058(b058, (B034) abbreviationRecord.get(34, b058.getSignalOutputUnit()));
 				}
 			}
 		}
