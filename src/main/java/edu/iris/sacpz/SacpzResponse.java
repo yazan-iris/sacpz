@@ -13,8 +13,6 @@ import edu.iris.seed.station.Zero;
 import edu.iris.station.model.Channel;
 import edu.iris.station.model.Dip;
 import edu.iris.station.model.Equipment;
-import edu.iris.station.model.Latitude;
-import edu.iris.station.model.Longitude;
 import edu.iris.station.model.Network;
 import edu.iris.station.model.PoleZero;
 import edu.iris.station.model.PolesZeros;

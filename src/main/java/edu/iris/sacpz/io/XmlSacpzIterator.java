@@ -5,19 +5,9 @@ import java.io.InputStream;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-import edu.iris.sacpz.SacPole;
-import edu.iris.sacpz.SacZero;
 import edu.iris.sacpz.SacpzResponse;
 import edu.iris.station.io.StationXmlIterator;
 import edu.iris.station.model.Channel;
-import edu.iris.station.model.Equipment;
-import edu.iris.station.model.Network;
-import edu.iris.station.model.PoleZero;
-import edu.iris.station.model.PolesZeros;
-import edu.iris.station.model.Response;
-import edu.iris.station.model.ResponseStage;
-import edu.iris.station.model.Sensitivity;
-import edu.iris.station.model.StageGain;
 import edu.iris.station.model.Station;
 
 public class XmlSacpzIterator implements Iterator<SacpzResponse>, AutoCloseable {
